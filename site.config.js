@@ -7,13 +7,13 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Transitive Bullshit',
-  domain: 'transitivebullsh.it',
-  author: 'Travis Fischer',
+  name: 'Captain Morgan',
+  domain: 'andronoop.in',
+  author: 'Captain Morgan',
 
   // open graph metadata (optional)
-  description: 'Example site description',
-  socialImageTitle: 'Transitive Bullshit',
+  description: 'Morgan site description',
+  socialImageTitle: 'Captain Morgan',
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
